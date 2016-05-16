@@ -9,21 +9,24 @@
 h1 { margin-bottom: 15px; }
 
 h2 { margin-top: 100px; }
-.navbar-brand{ height: 100px }
+.navbar-brand{ height: 100px 
+}
 h3 {
   margin: 0px;
   border: 1px solid black;
   float: right;
 }
-.navbar-brand a:hover, .navbar-brand a:hover {text-decoration: none;}
+.navbar-brand a:hover, .navbar-brand a:hover {
+  text-decoration: none;
+}
 section {
   margin-right: auto;
   margin-left: auto;
   width: 100%;
   margin-right: auto;
 }
-#header-nav{
-   background-color: gray
+#header-nav{ background-color: gray; }
+.navbar-header .navbar-brand a{
   margin-left: auto;
   color: white;
 }
