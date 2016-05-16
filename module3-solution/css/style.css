@@ -8,7 +8,7 @@
 .greenbg{ background-color: green; }
 h1 { margin-bottom: 15px; }
 
-h2 { margin-top: 100px; }
+h2 { margin-top: 130px; }
 .navbar-brand{ height: 100px 
 }
 h3 {
@@ -25,6 +25,7 @@ section {
   width: 100%;
   margin-right: auto;
 }
+#collapsable-nav{background-color: black;}
 #header-nav{ background-color: gray; }
 .navbar-header .navbar-brand a{
   margin-left: auto;
@@ -32,6 +33,7 @@ section {
 }
 #nav-list a{
   color: white;
+  
 }
 #nav-list a:hover {
 
