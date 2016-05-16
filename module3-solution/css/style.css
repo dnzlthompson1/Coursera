@@ -25,7 +25,7 @@ section {
   width: 100%;
   margin-right: auto;
 }
-#collapsable-nav{background-color: black;}
+@media (max-width: 768px){#collapsable-nav{background-color: black;}}
 #header-nav{ background-color: gray; }
 .navbar-header .navbar-brand a{
   margin-left: auto;
